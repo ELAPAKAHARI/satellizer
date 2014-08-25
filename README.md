@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ![Project Logo](https://lh6.googleusercontent.com/-YmfKZZLZKL0/U-KVPFSbiOI/AAAAAAAAEZA/maoYT8iJCnA/w1089-h513-no/sshot-1.png)
 
@@ -470,3 +471,9 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 
+=======
+satellizer
+==========
+
+Cloning from official website
+>>>>>>> 5e2600940a32a70435e7bdd7821cf39038818077
